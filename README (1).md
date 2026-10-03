@@ -12,13 +12,13 @@ Built on Microsoft's AdventureWorks sample data (a fictional bicycle manufacture
 
 | Commercial Performance | Sales & Demand Drivers |
 |---|---|
-| ![Commercial Performance](images/01_commercial_performance.png) | ![Sales and Demand Drivers](images/02_sales_demand_drivers.png) |
+| ![Commercial Performance](images/commercial_performance.png) | ![Sales and Demand Drivers](images/sales_demand_drivers.png) |
 
 | Inventory & Demand Alignment | SKU Action Matrix |
 |---|---|
-| ![Inventory and Demand Alignment](images/03_inventory_demand_alignment.png) | ![SKU Action Matrix](images/04_sku_action_matrix.png) |
+| ![Inventory and Demand Alignment](images/inventory_demand_alignment.png) | ![SKU Action Matrix](images/sku_action_matrix.png) |
 
-![Executive Summary](images/05_executive_summary.png)
+![Executive Summary](images/executive_summary.png)
 
 The full written summary is in [`report/AdventureWorks_Analysis_Report.pdf`](report/AdventureWorks_Analysis_Report.pdf).
 
@@ -118,11 +118,11 @@ category-performance-analysis/
 ├── data/
 │   └── raw/                     # source .xlsx files
 └── images/
-    ├── 01_commercial_performance.png
-    ├── 02_sales_demand_drivers.png
-    ├── 03_inventory_demand_alignment.png
-    ├── 04_sku_action_matrix.png
-    └── 05_executive_summary.png
+    ├── commercial_performance.png
+    ├── sales_demand_drivers.png
+    ├── inventory_demand_alignment.png
+    ├── sku_action_matrix.png
+    └── executive_summary.png
 ```
 
 ## How to open the report
